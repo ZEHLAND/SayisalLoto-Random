@@ -1,0 +1,10 @@
+C:\Users\zehol\source\repos\RONDOM\RONDOM\bin\Debug\RONDOM.exe.config
+C:\Users\zehol\source\repos\RONDOM\RONDOM\bin\Debug\RONDOM.exe
+C:\Users\zehol\source\repos\RONDOM\RONDOM\bin\Debug\RONDOM.pdb
+C:\Users\zehol\source\repos\RONDOM\RONDOM\obj\Debug\RONDOM.csprojAssemblyReference.cache
+C:\Users\zehol\source\repos\RONDOM\RONDOM\obj\Debug\RONDOM.Form1.resources
+C:\Users\zehol\source\repos\RONDOM\RONDOM\obj\Debug\RONDOM.Properties.Resources.resources
+C:\Users\zehol\source\repos\RONDOM\RONDOM\obj\Debug\RONDOM.csproj.GenerateResource.cache
+C:\Users\zehol\source\repos\RONDOM\RONDOM\obj\Debug\RONDOM.csproj.CoreCompileInputs.cache
+C:\Users\zehol\source\repos\RONDOM\RONDOM\obj\Debug\RONDOM.exe
+C:\Users\zehol\source\repos\RONDOM\RONDOM\obj\Debug\RONDOM.pdb
